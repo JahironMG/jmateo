@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jahiron Mateo - AKA Sedrias
 - 👀 I’m interested in Data Analysis and IoT ecosystem 
-- 🌱 I’m currently learning JavaScrip, R language, SQL, Arduinos devices.
+- 🌱 I’m currently learning Tableau, Pyhton, MySQL, statistics and algebra.
 - 📫 How to reach me [jahiron_m.g@hotmail.com] 
 
 <!---
