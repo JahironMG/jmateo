@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jahiron Mateo - AKA jmateo
+- 👋 Hi, I’m Jahiron Mateo 
 - 👀 I’m interested in Data Analysis and IoT ecosystem 
 - 🌱 I’m currently learning Tableau, Pyhton, SQL, and statistics.
 - 📫 How to reach me [jahiron_m.g@hotmail.com] 
