@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jahiron Mateo 
 - 👀 I’m interested in Data Analysis and IoT ecosystem 
-- 🌱 I’m currently learning Tableau, Pyhton, SQL, and statistics.
+- 🌱 I’m currently learning Data modeling, Time series analisis, Python, statistic.
 - 📫 How to reach me [jahiron_m.g@hotmail.com] 
 
 <!---
